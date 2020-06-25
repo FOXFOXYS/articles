@@ -1,0 +1,22 @@
+#fond {
+    background-image: url('../img/bg-tile.png');
+}
+
+.marge {
+    margin-top: 15px;
+}
+
+.margebas{
+    margin-bottom: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.center {
+    margin: 0 auto;
+}
+
+.text-center {
+    color: white;
+}
+
